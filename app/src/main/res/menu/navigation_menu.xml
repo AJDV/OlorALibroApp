@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/librerias"
+        android:title="Librerias"/>
+    <item
+        android:id="@+id/act"
+        android:title="Actividades"/>
+    <item
+        android:id="@+id/cuenta"
+        android:title="Cuenta"/>
+    <item
+        android:id="@+id/log"
+        android:title="Login/Logout"/>
+    <item
+        android:id="@+id/contacto"
+        android:title="Contacto"/>
+    <item
+        android:id="@+id/salir"
+        android:title="Salir"/>
+</menu>

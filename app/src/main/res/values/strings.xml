@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OlorALibroApp</string>
+    <string name="icon_name">Olor A Libro</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
